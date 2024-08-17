@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+}
+
+li{
+    color: red;
+}
+body{
+    background-color: aquamarine;
+}
+.tarea2{
+    font-style: italic;
+}
+
+.contenedor{
+    display: flex;
+    background-color: brown;
+    height: 250px;
+    padding: 15px;
+    justify-content: center;
+    border: 3px solid #ffcc80;
+    border-radius: 5px;
+}
+
+.naranja{
+    border: 3px solid rgb(19, 207, 34);
+    border-radius: 5px;
+    height: 90%;
+    width: 40%;
+    margin: 20px;
+}
+
+.limon{
+    border: 3px solid rgb(19, 207, 34);
+    border-radius: 5px;
+    height: 90%;
+    width: 20%;
+    margin: 20px;
+}
